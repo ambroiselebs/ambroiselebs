@@ -1,3 +1,4 @@
-ambroiselebs --> PDG Ez Anime
+Hello, I'm Ambroise. I'm currently a student in France around Rouen. 
+I usually do web developement but I also know Python.
 
-Web developper
+Welcome to my profile
