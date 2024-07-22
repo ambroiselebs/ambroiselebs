@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ambroise</h1>
 <h3 align="center">I am 18 years old and I am a student in Le Havre, France.</h3>
 
+- 👨‍💻 All of my projects are available under different organizations to order them correctly
+  
 - 🔭 I’m currently working on [being accepted at 42 Le Havre](https://github.com/ambroiselebs-42)
 
 - 💬 Ask me about **Web développement, C, Python and other !**
+
+- ⚡ Fun fact **I won a regional computer contest when I was 16. (Look for Olympiade NSI Normandie 2023)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
