@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web développement, C, Python and other !**
 
-- ⚡ Fun fact **I won a regional computer contest when I was 16. [(Look for Olympiade NSI Normandie 2023)]**(https://nsi-snt.ac-normandie.fr/olympiades-et-trophees-nsi-2023-remise-des-prix#:~:text=La%20remise%20des%20prix%20des,%C3%A0%20l'universit%C3%A9%20du%20Havre.&text=Les%20sujets%20sont%20disponibles%20sur%20le%20site%20acad%C3%A9mique%20math%C3%A9matiques.)
+- ⚡ **Fun fact** I won a regional computer contest when I was 16. [Look for Olympiade NSI Normandie 2023](https://nsi-snt.ac-normandie.fr/olympiades-et-trophees-nsi-2023-remise-des-prix#:~:text=La%20remise%20des%20prix%20des,%C3%A0%20l'universit%C3%A9%20du%20Havre.&text=Les%20sujets%20sont%20disponibles%20sur%20le%20site%20acad%C3%A9mique%20math%C3%A9matiques.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
