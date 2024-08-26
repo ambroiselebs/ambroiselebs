@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available under different organizations to order them correctly
   
-- 🔭 I’m currently working on [being accepted at 42 Le Havre](https://github.com/ambroiselebs-42)
+- 🔭 I’m currently working on [being accepted at 42 Le Havre](https://github.com/ambroiselebs/piscine42)
 
 - 💬 Ask me about **Web développement, C, Python and other !**
 
