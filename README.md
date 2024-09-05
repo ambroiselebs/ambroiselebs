@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ambroise</h1>
-<h3 align="center">I am 18 years old and I am a student in Le Havre, France.</h3>
-
-- 👨‍💻 All of my projects are available under different organizations to order them correctly
+<h3 align="center">I am 18 years old and I am a student in Le Havre at school 42, France.</h3>
   
-- 🔭 I’m currently working on [being accepted at 42 Le Havre](https://github.com/ambroiselebs/piscine42)
-
 - 💬 Ask me about **Web développement, C, Python and other !**
 
 - ⚡ **Fun fact** I won a regional computer contest when I was 16. [Look for Olympiade NSI Normandie 2023](https://nsi-snt.ac-normandie.fr/olympiades-et-trophees-nsi-2023-remise-des-prix#:~:text=La%20remise%20des%20prix%20des,%C3%A0%20l'universit%C3%A9%20du%20Havre.&text=Les%20sujets%20sont%20disponibles%20sur%20le%20site%20acad%C3%A9mique%20math%C3%A9matiques.)
