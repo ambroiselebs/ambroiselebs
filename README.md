@@ -90,9 +90,9 @@
 [![So Long](https://github-readme-stats.vercel.app/api/pin/?username=ambroiselebs&repo=42-so_long&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/ambroiselebs/42-so_long)
 
 [![Get Next Line](https://github-readme-stats.vercel.app/api/pin/?username=ambroiselebs&repo=42-get_next_line&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/ambroiselebs/42-get_next_line)
-[![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=ambroiselebs&repo=42_ft_printf&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/ambroiselebs/42-ft_printf)
+[![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=ambroiselebs&repo=42_ft_printf&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/ambroiselebs/42_ft_printf)
 
-[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=ambroiselebs&repo=42_libft&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/ambroiselebs/42-libft)
+[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=ambroiselebs&repo=42_libft&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/ambroiselebs/42_libft)
 
 </div>
 
