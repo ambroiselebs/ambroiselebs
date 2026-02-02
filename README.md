@@ -49,7 +49,7 @@
 | **Pipex** | Reproduction du comportement des pipes |
 | **So_long** | Petit jeu 2D avec MiniLibX |
 | **Philosophers** | Problème des philosophes (threads/mutex) |
-| **ft_irc** | Serveur IRC en C++ ✅ |
+| **ft_irc** | Serveur IRC en C++ |
 
 ---
 
