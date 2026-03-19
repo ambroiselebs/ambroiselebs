@@ -53,10 +53,12 @@
 
 ---
 
-## 🎯 **Final Boss**
+## 🎯 **Ongoing**
 
 ```
-🏆 FT_TRANSCENDENCE - Full-Stack Web Project (Pong + Social Features)
+💻​ KFS-1 - Discovering OS programming
+🛜​ ft_ping - Coding "ping" command from scratch
+⌨️​ Libasm - Basic function in assembler
 ```
 
 ---
@@ -71,7 +73,3 @@
 | **Python** | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 85% |
 
 ---
-
-<p align="center">
-  <i>🚀 Almost there... One project left to complete the Common Core!</i>
-</p>
