@@ -1,6 +1,6 @@
 # 👋 **Ambroise Berenger | ⚙️ Systems & Embedded Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TonProfil-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d3748&color=1a1a1a)](https://www.linkedin.com/in/ambroise-berenger-4295b2303/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ambroise-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d3748&color=1a1a1a)](https://www.linkedin.com/in/ambroise-berenger-4295b2303/)
 [![Email](https://img.shields.io/badge/Email-Contact-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&color=1a1a1a)](mailto:aberenge@student.42lehavre.fr)
 
 ---
