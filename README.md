@@ -41,9 +41,9 @@ I am looking for technical challenges involving memory optimization, concurrency
 
 | Project | Description | Key Skills | Status |
 |---------|-------------|-------------------|--------|
-| **monOS (Kernel From Scratch)** | Developing a basic x86 operating system from scratch. | x86 Architecture, Bootloader, Kernel, GDT/IDT | 🚧 *In Progress* |
+| **[MonOS (Kernel From Scratch)](https://github.com/ambroiselebs/monOS)** | Developing a basic x86 operating system from scratch. | x86 Architecture, Bootloader, Kernel, GDT/IDT | 🚧 *In Progress* |
 | **[Libasm](https://github.com/ambroiselebs/Libasm)** | Rewriting standard C library functions in x86_64 Assembly. | Assembly, Registers, CPU Optimization | 🚧 *In Progress* |
-| **ft_ping** | Complete recreation of the system `ping` command. | Raw Sockets, ICMP, Networking | 🚧 *In Progress* |
+| **[ft_ping](https://github.com/ambroiselebs/ft_ping.git)** | Complete recreation of the system `ping` command. | Raw Sockets, ICMP, Networking | 🚧 *In Progress* |
 | **Philosophers** | Solving the dining philosophers problem with shared resource management. | Threads, Mutexes, Data Races, C | ✅ *Completed* |
 | **ft_irc** | Creation of a full IRC server handling multiple simultaneous connections. | Sockets, I/O Multiplexing (epoll/select), C++ | ✅ *Completed* |
 
