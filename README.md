@@ -42,11 +42,22 @@ Je recherche des défis techniques impliquant l'optimisation mémoire, la gestio
 
 | Projet | Description | Compétences Clés | Statut |
 |---------|-------------|-------------------|--------|
-| **KFS-1 (Kernel From Scratch)** | Développement d'un système d'exploitation x86 basique à partir de zéro. | Architecture x86, Bootloader, Kernel, GDT/IDT | 🚧 *En cours* |
-| **Libasm** | Réécriture de fonctions de la bibliothèque standard C en Assembleur x86_64. | Assembleur, Registres, Optimisation CPU | 🚧 *En cours* |
+| **monOS (Kernel From Scratch)** | Développement d'un système d'exploitation x86 basique à partir de zéro. | Architecture x86, Bootloader, Kernel, GDT/IDT | 🚧 *En cours* |
+| **[Libasm](https://github.com/ambroiselebs/Libasm)** | Réécriture de fonctions de la bibliothèque standard C en Assembleur x86_64. | Assembleur, Registres, Optimisation CPU | 🚧 *En cours* |
 | **ft_ping** | Recréation complète de la commande `ping` système. | Sockets bruts (Raw Sockets), ICMP, Réseau | 🚧 *En cours* |
 | **Philosophers** | Résolution du problème des philosophes avec gestion de ressources partagées. | Threads, Mutexes, Data Races, C | ✅ *Validé* |
 | **ft_irc** | Création d'un serveur IRC complet gérant de multiples connexions simultanées. | Sockets, I/O Multiplexing (epoll/select), C++ | ✅ *Validé* |
+
+---
+
+## 🏎️ **Projets Personnels : Automobile, Réseau & Télémétrie**
+
+*L'industrie automobile me passionnant, j'applique mes compétences sur des projets personnels liant logiciel, réseau et données en temps réel.*
+
+| Projet | Description | Technologies |
+|---------|-------------|--------------|
+| **[telemetry-xbox](https://github.com/ambroiselebs/telemetry-xbox)** | Extraction et traitement de données de télémétrie en temps réel. | C++, Télémétrie |
+| **[assetto-network](https://github.com/ambroiselebs/assetto-network)** | Création d'un serveur central permettant de simuler du réseau local (LAN) sur des réseaux distincts pour le simulateur Assetto Corsa. | C++, Programmation Réseau |
 
 ---
 
